@@ -46,3 +46,5 @@ application/x-extension-eml=userapp-SeaMonkey-CLQ70Z.desktop;
 x-scheme-handler/http=userapp-SeaMonkey-CLQ70Z.desktop;
 x-scheme-handler/https=userapp-SeaMonkey-CLQ70Z.desktop;
 x-scheme-handler/mailto=userapp-SeaMonkey-CLQ70Z.desktop;
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+application/zip=org.gnome.FileRoller.desktop;
